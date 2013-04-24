@@ -19,6 +19,6 @@ end
 group :development do
 	gem 'populator3'
 	gem 'faker'
-	gem 'hirb'
+	# gem 'hirb'
 	gem 'wirble'
 end
